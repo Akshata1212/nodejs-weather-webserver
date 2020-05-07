@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>About</title>
+    <link rel="icon" href="./images/weather.png">
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+
+<body>
+    <div class="main-content">
+        {{!-- below command ">header" is used to enable header,hbs template after using this the appn will crash. --}}
+        {{!-- to start working in terminal run command "nodemon src/app.js -e js,hbs" -e is extension--}}
+        {{>header}}
+        {{!-- <h1>{{name}}</h1> --}}
+        <img class="potrait" src="./images/young-lady-female-girl.jpg">
+    </div>
+    {{>footer}}
+</body>
+
+</html>
