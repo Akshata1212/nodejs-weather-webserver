@@ -1,0 +1,19 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshata1212/nodejs-weather-webserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshata1212/nodejs-weather-webserver/issues"
+  },
+  "homepage": "https://github.com/Akshata1212/nodejs-weather-webserver#readme"
+}
