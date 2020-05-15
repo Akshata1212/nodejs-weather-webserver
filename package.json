@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Akshata1212/nodejs-weather-webserver/issues"
   },
-  "homepage": "https://github.com/Akshata1212/nodejs-weather-webserver#readme"
+  "homepage": "https://github.com/Akshata1212/nodejs-weather-webserver#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "hbs": "^4.1.1",
+    "request": "^2.88.2"
+  }
 }
